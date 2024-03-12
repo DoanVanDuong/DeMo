@@ -17,6 +17,17 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
         android:text="PH46500"
+        /> <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Đoàn Văn Dương 1"
+         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="PH465001"
         />
 
 </LinearLayout>
